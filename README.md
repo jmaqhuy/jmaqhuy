@@ -31,7 +31,7 @@ me.say_hi()
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:quochuy.ws@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://jmaqhuy.id.vn/"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white"></a>
+<a href="https://jmaqhuy.id.vn/"><img src="https://img.shields.io/badge/Portfolio-135D66?style=for-the-badge&logo=GoogleChrome&logoColor=white"></a>
 </div>
 
 <div align="center">
