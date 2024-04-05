@@ -21,6 +21,11 @@ class SoftwareEngineer:
 me = SoftwareEngineer()
 me.say_hi()
 ```
+
+<p align="justify">
+Welcome to my GitHub Page. I am Nguyen Quoc Huy and now Information and Communication Technology student , I learn new things about programming, especially backend development.
+</p>
+
 ## Connect with me <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
 
 <div align="center">
