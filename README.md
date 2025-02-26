@@ -2,24 +2,29 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=jmaqhuy.jmaqhuy)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
-```python
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
+```java
+public class AndroidDeveloper {
 
+    private String name;
+    private String role;
+    private String[] languagesSpoken;
 
-class SoftwareEngineer:
+    public AndroidDeveloper() {
+        this.name = "Nguyen Quoc Huy";
+        this.role = "Software Engineer";
+        this.languagesSpoken = new String[]{"vi_VN", "en_US"};
+    }
 
-    def __init__(self):
-        self.name = "Nguyen Quoc Huy"
-        self.role = "Software Engineer"
-        self.language_spoken = ["vi_VN", "en_US","fr_FR"]
+    public void sayHi() {
+        System.out.println("Thanks for dropping by, hope you find some of my work interesting.");
+    }
 
-    def say_hi(self):
-        print("Thanks for dropping by, hope you find some of my work interesting.")
+    public static void main(String[] args) {
+        AndroidDeveloper me = new AndroidDeveloper();
+        me.sayHi();
+    }
+}
 
-
-me = SoftwareEngineer()
-me.say_hi()
 ```
 
 <p align="justify">
